@@ -1,0 +1,20 @@
+.click{
+    margin-left: 45%;
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.removebtn{
+    margin-left: 43%;
+    margin-top: 16px;
+    padding: 10px 10px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.map{
+    height: 100%;
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
